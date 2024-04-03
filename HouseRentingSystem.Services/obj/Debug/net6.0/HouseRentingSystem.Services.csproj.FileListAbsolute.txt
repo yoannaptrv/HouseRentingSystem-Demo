@@ -1,0 +1,12 @@
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+D:\SoftUniProjects\CI 2 Jenkins\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache

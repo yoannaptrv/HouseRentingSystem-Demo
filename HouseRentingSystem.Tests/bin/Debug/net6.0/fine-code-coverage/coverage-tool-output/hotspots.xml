@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotspots>
+  <Hotspot>
+    <Assembly>HouseRentingSystem.Web</Assembly>
+    <Class>AspNetCoreGeneratedDocument.Views_Houses_Details</Class>
+    <MethodName>ExecuteAsync()</MethodName>
+    <ShortName />
+    <Line>6</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>40</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>HouseRentingSystem.Web</Assembly>
+    <Class>AspNetCoreGeneratedDocument.Views_Houses__HouseFormPartial</Class>
+    <MethodName>&lt;ExecuteAsync()</MethodName>
+    <ShortName />
+    <Line>7</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>36</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>HouseRentingSystem.Web</Assembly>
+    <Class>AspNetCoreGeneratedDocument.Views_Houses__HousePartial</Class>
+    <MethodName>ExecuteAsync()</MethodName>
+    <ShortName />
+    <Line>8</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>36</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>HouseRentingSystem.Web</Assembly>
+    <Class>AspNetCoreGeneratedDocument.Areas_Identity_Pages_Account_Register</Class>
+    <MethodName>&lt;ExecuteAsync()</MethodName>
+    <ShortName />
+    <Line>14</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>32</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+</Hotspots>
